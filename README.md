@@ -1,2 +1,2 @@
 # Rimi
-my first projrct 
+my first project 
